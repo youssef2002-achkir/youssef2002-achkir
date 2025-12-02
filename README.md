@@ -1,6 +1,6 @@
-# 👨‍💻 [Achkir Youssef]'s Portfolio
+# 👨‍💻 Achkir Youssef's Portfolio
 
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen) ![License](https://img.shields.io/badge/license-MIT-blue)
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 
 Hi, I'm Youssef Achkir ! I am a **Java Backend Developer** and **Full-Stack Developer** with experience in building scalable systems using **Spring Boot**, **React**, **PostgreSQL**, **MongoDB**, and many other modern technologies. I’m passionate about writing clean, maintainable code that powers real-world applications.
 
