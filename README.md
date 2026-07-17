@@ -21,8 +21,7 @@ I believe in always staying ahead of the curve by constantly learning new skills
 - **DevOps & Tools**:
     - Docker, Kubernetes
     - Git, GitHub, GitLab
-    - CI/CD, Jenkins
-    - AWS, DigitalOcean
+    - CI/CD, Docker, AWS
 - **Miscellaneous**:
     - Test-driven development (TDD)
     - Microservices Architecture
